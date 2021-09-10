@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel ="stylesheet" href="style.css">
+
+<title>404-Page</title>
+</head>
+
+<body>
+    <article id="main">
+    	<article class="foot">
+        		<h1>Error 404</h1>
+                   <h2>Page not found</h2>
+        </article>
+    </article>
+    <div class="warning">
+    <a href="https://github.com/FrancisFrancois">Retour</a>
+     </div>
+    
+
+</body>
+
+</html>
