@@ -14,9 +14,13 @@
         </article>
     </article>
     <div class="warning">
-    <a href="https://github.com/FrancisFrancois">Retour</a>
+    <a href="https://github.com/FrancisFrancois"></a>
+         <input class="favorite styled"
+              type="button"
+            value="Retour">
+ 
      </div>
-    
+
 
 </body>
 
